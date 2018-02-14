@@ -1,3 +1,9 @@
+This program is the solution to the following Chanllenge!
+The only mere difference is that when donation record from the same donor is not arrived in order, we always output the latest one.
+
+Zhiyu Wan
+Vanderbilt University
+
 # Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Challenge summary](README.md#challenge-summary)
